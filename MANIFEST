@@ -4,6 +4,12 @@ lib/Acme/PM/Hachiouji.pm
 MANIFEST			This list of files
 README
 t/00.load.t
-t/perlcritic.t
-t/pod-coverage.t
-t/pod.t
+t/01.greet.t
+xt/00.pod.t
+xt/01.pod-coverage.t
+xt/02.podspell.t
+xt/99.perlcritic.t
+xt/perlcriticrc
+LICENSE
+META.yml
+META.json
