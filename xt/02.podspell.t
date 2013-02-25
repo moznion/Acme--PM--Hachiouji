@@ -7,5 +7,6 @@ all_pod_files_spelling_ok('lib');
 __DATA__
 moznion
 moznion@gmail.com
-Acme::PM::Hachioji
+Acme::PM::Hachiouji
+Hachioji
 pm
