@@ -1,8 +1,12 @@
 Build.PL
 Changes
 lib/Acme/PM/Hachiouji.pm
+LICENSE
 MANIFEST			This list of files
+META.json
+META.yml
 README
+README.pod
 t/00.load.t
 t/01.greet.t
 xt/00.pod.t
@@ -10,6 +14,3 @@ xt/01.pod-coverage.t
 xt/02.podspell.t
 xt/99.perlcritic.t
 xt/perlcriticrc
-LICENSE
-META.yml
-META.json
